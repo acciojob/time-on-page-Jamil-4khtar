@@ -16,7 +16,7 @@ function TimeCount() {
 
 
     return (
-        <div>{`You have been on this page for ${seconds} seconds.`}</div>
+        <p>{`You have been on this page for ${seconds} seconds.`}</p>
     )
 }
 
